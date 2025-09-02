@@ -150,26 +150,12 @@
 
 ---
 
-### 📅 Experience  
-
-📚 Teaching Assistant – Carleton University Jan 2025 – Aptil 2025
-Data Structures & Algorithms (60+ students)
-
-💼 Software Developer – Almighty InfoTech May 2023 – Jul 2024
-AI chatbots, vector DBs, performance ↑200%
-
-🌟 Frontend Intern – Empyreal Infotech May 2022 – Jul 2022
-React routing & secure input validation
-
----
-
 ### 🌐 Let's Connect  
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divyesh-rathod-developer)  
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:divyeshrathod096@gmail.com)  
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/divyesh-rathod)  
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:divyeshrathod096@gmail.com)   
 
 </div>
 

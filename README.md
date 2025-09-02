@@ -1,4 +1,6 @@
-# Hi there, I'm Divyesh 👋
+# Hi there, I'm Divyesh (FroznFlames) 👋  
+
+![Profile Views](https://komarev.com/ghpvc/?username=divyesh-rathod&color=blueviolet)  
 
 <div align="center">
 
@@ -6,227 +8,131 @@
 
 </div>
 
-### About Me
-- 🎓 Master's in Software Engineering @ Carleton University (Dec 2026)
-- 🔍 Seeking **Winter 2026 Internship** in Full-Stack & ML
-- 🧠 250+ LeetCode problems solved | GitHub Foundations Certified
-- 📍 Ottawa, ON | 📧 divyeshrathod096@gmail.com
+---
+
+### 👨‍💻 About Me
+- 🎓 Master’s in Software Engineering @ Carleton University (Dec 2026)  
+- 🔍 Seeking **Winter 2026 Internship** in Full-Stack & ML  
+- 🧠 Solved **270+ LeetCode problems**  
+- 🌍 Ottawa, ON | 📧 divyeshrathod096@gmail.com  
 
 ---
 
-### Tech Stack
+### 📈 LeetCode — Live Stats  
 
-**Languages & Frameworks**
-```
-JavaScript████████████████████████████   92%
-TypeScript████████████████████████████   90%
-Python    ██████████████████████████████ 88%
-Java      ████████████████████████████   85%
-```
+| Metric | Value |
+|--------|:-----:|
+| **Problems Solved** | 270 (C++), 12 (MySQL), 1 (JavaScript) |
+| **Top Skills** | DP (58), Backtracking (18), Divide & Conquer (17), DFS (54), Hash Table (48), BFS (44), Arrays (135), Strings (54), Sorting (30) |
 
-**Full-Stack & ML**
-- **Frontend:** ReactJS framework, state management, lifecycle, and unit testing plugins
-- **Core:** React, JavaScript, HTML5, CSS3, Webpack, REST/JSON
-- **State Management:** Redux Toolkit (RTK), Redux Thunk, RTK Query
-- **Routing:** React Router DOM, nested routing, protected routes
-- **Backend:** Node.js, Express.js, FastAPI, Spring Boot
-- **ML/AI:** PyTorch, Hugging Face, Sentence-BERT, Vector DBs
-- **Database:** PostgreSQL, pgvector, Prisma, SQLAlchemy
+👉 [View Full Profile on LeetCode](https://leetcode.com/u/FroznFlames/)  
 
 ---
 
-### Featured Projects
+### 📊 GitHub Stats  
 
-<table>
-<tr>
-<td width="50%">
+<div align="center">
 
-### 🤖 Smart News Recommender
-**ML pipeline with personalized recommendations**
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=divyesh-rathod&show_icons=true&theme=dark&hide_border=true&count_private=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=divyesh-rathod&layout=compact&theme=dark&hide_border=true)  
 
-- Async scraping of 50+ RSS feeds
-- Sentence-BERT embeddings + reranking
-- PostgreSQL with pgvector similarity search
-- FastAPI backend with JWT auth
+</div>
 
-[![Repo](https://img.shields.io/badge/GitHub-View%20Code-blue?style=flat-square&logo=github)](https://github.com/divyesh-rathod/Smart-News-Backend)
+---
 
-</td>
-<td width="50%">
+### ⚡ Tech Stack  
 
-### 💰 OptimalPay - Debt Optimizer
-**A* search algorithm for debt elimination**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?logo=node-dot-js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FBBF24?logo=huggingface&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white)
 
-- 99.999% search space reduction
-- 1000× faster queue operations (O(log n))
-- 15-40% interest savings with lookahead
-- Runtime: 60s → <8s optimization
+---
 
-[![Repo](https://img.shields.io/badge/GitHub-View%20Code-blue?style=flat-square&logo=github)](https://github.com/divyesh-rathod/OptimalPay-Backend)
+### 🚀 Featured Projects  
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+#### 🤖 Smart News Recommender  
+**ML pipeline with personalized recommendations**  
+- Async scraping of 50+ RSS feeds  
+- Sentence-BERT embeddings + reranking  
+- PostgreSQL with pgvector similarity search  
+- FastAPI backend with JWT auth  
 
-### 🛒 E-Commerce Spring Boot
-**Full-stack Java app with comprehensive testing**
+[![Repo](https://img.shields.io/badge/GitHub-View%20Code-blue?style=flat-square&logo=github)](https://github.com/divyesh-rathod/Smart-News-Backend)  
 
-- Spring Boot 3.x + Java 21
-- JUnit 5 + Cucumber BDD testing
-- PostgreSQL + JPA/Hibernate
-- Clean architecture with SOLID principles
+---
 
-[![Repo](https://img.shields.io/badge/GitHub-View%20Code-blue?style=flat-square&logo=github)](https://github.com/divyesh-rathod/Ecommerce-Backend-with-Testing)
+#### 💰 OptimalPay - Debt Optimizer  
+**A* search algorithm for debt elimination**  
+- 99.999% search space reduction  
+- 1000× faster queue operations (O(log n))  
+- 15–40% interest savings with lookahead  
+- Runtime: 60s → <8s optimization  
 
-</td>
-<td width="50%">
+[![Repo](https://img.shields.io/badge/GitHub-View%20Code-blue?style=flat-square&logo=github)](https://github.com/divyesh-rathod/OptimalPay-Backend)  
 
-### 🏦 Banking System
-**Secure banking with role-based access**
+---
 
-- Flask + PostgreSQL architecture
+#### 🛒 E-Commerce Spring Boot  
+**Full-stack Java app with comprehensive testing**  
+- Spring Boot 3.x + Java 21  
+- JUnit 5 + Cucumber BDD testing  
+- PostgreSQL + JPA/Hibernate  
+- Clean architecture with SOLID principles  
+
+[![Repo](https://img.shields.io/badge/GitHub-View%20Code-blue?style=flat-square&logo=github)](https://github.com/divyesh-rathod/Ecommerce-Backend-with-Testing)  
+
+---
+
+#### 🏦 Banking System  
+**Secure banking with role-based access**  
+- Flask + PostgreSQL architecture  
 - SSL encryption & bcrypt hashing  
-- Role-based access control
-- Admin monitoring dashboard
+- Role-based access control  
+- Admin monitoring dashboard  
 
-[![Repo](https://img.shields.io/badge/GitHub-View%20Code-blue?style=flat-square&logo=github)](https://github.com/divyesh-rathod/banking_system_python)
-
-</td>
-</tr>
-</table>
+[![Repo](https://img.shields.io/badge/GitHub-View%20Code-blue?style=flat-square&logo=github)](https://github.com/divyesh-rathod/banking_system_python)  
 
 ---
 
-### GitHub Stats
+### 📅 Experience  
 
-<div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=divyesh-rathod&show_icons=true&theme=dark&hide_border=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyesh-rathod&layout=compact&theme=dark&hide_border=true" />
+📚 Teaching Assistant – Carleton University Jan 2025 – Present
+Data Structures & Algorithms (60+ students)
 
-</div>
+💼 Software Developer – Almighty InfoTech May 2023 – Jul 2024
+AI chatbots, vector DBs, performance ↑200%
 
----
+🌟 Frontend Intern – Empyreal Infotech May 2022 – Jul 2022
+React routing & secure input validation
 
-### Experience Timeline
-
-```
-📚 Teaching Assistant - Carleton University           Jan 2025 - Present
-   Data Structures & Algorithms (60+ students)
-
-💼 Software Developer - Almighty InfoTech            May 2023 - Jul 2024  
-   AI chatbots, vector databases, 200% performance boost
-
-🌟 Frontend Intern - Empyreal Infotech              May 2022 - Jul 2022
-   React routing & secure input validation
-```
+yaml
+Copy code
 
 ---
 
-### Let's Connect
+### 🌐 Let's Connect  
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divyesh-rathod-developer)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:divyeshrathod096@gmail.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/divyesh-rathod)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divyesh-rathod-developer)  
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:divyeshrathod096@gmail.com)  
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/divyesh-rathod)  
 
 </div>
 
 <div align="center">
 
-*"Building intelligent systems where software engineering meets machine learning"*
-
-![Profile Views](https://komarev.com/ghpvc/?username=divyesh-rathod&color=blueviolet)
-
-</div>- 99.999% search space reduction
-- 1000× faster queue operations (O(log n))
-- 15-40% interest savings with lookahead
-- Runtime: 60s → <8s optimization
-
-[![Repo](https://img.shields.io/badge/GitHub-View%20Code-blue?style=flat-square&logo=github)](https://github.com/divyesh-rathod/OptimalPay-Backend)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🛒 E-Commerce Spring Boot
-**Full-stack Java app with comprehensive testing**
-
-- Spring Boot 3.x + Java 21
-- JUnit 5 + Cucumber BDD testing
-- PostgreSQL + JPA/Hibernate
-- Clean architecture with SOLID principles
-
-[![Repo](https://img.shields.io/badge/GitHub-View%20Code-blue?style=flat-square&logo=github)](https://github.com/divyesh-rathod/Ecommerce-Backend-with-Testing)
-
-</td>
-<td width="50%">
-
-### 🏦 Banking System
-**Secure banking with role-based access**
-
-- Flask + PostgreSQL architecture
-- SSL encryption & bcrypt hashing  
-- Role-based access control
-- Admin monitoring dashboard
-
-[![Repo](https://img.shields.io/badge/GitHub-View%20Code-blue?style=flat-square&logo=github)](https://github.com/divyesh-rathod/banking_system_python)
-
-</td>
-</tr>
-</table>
-
----
-
-### GitHub Stats
-
-<div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=divyesh-rathod&show_icons=true&theme=dark&hide_border=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyesh-rathod&layout=compact&theme=dark&hide_border=true" />
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=divyesh-rathod&theme=dark&hide_border=true)
-
-</div>
-
----
-
-### Experience Timeline
-
-```
-📚 Teaching Assistant - Carleton University           Jan 2025 - Present
-   Data Structures & Algorithms (60+ students)
-
-💼 Software Developer - Almighty InfoTech            May 2023 - Jul 2024  
-   AI chatbots, vector databases, 200% performance boost
-
-🌟 Frontend Intern - Empyreal Infotech              May 2022 - Jul 2022
-   React routing & secure input validation
-```
-
----
-
-### Let's Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divyesh-rathod-developer)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:divyeshrathod096@gmail.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/divyesh-rathod)
-
-</div>
-
-<div align="center">
-
-*"Building intelligent systems where software engineering meets machine learning"*
-
-![Profile Views](https://komarev.com/ghpvc/?username=divyesh-rathod&color=blueviolet)
+**"Building intelligent systems where software engineering meets machine learning"**
 
 </div>

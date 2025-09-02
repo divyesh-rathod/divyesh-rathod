@@ -152,7 +152,7 @@
 
 ### 📅 Experience  
 
-📚 Teaching Assistant – Carleton University Jan 2025 – Present
+📚 Teaching Assistant – Carleton University Jan 2025 – Aptil 2025
 Data Structures & Algorithms (60+ students)
 
 💼 Software Developer – Almighty InfoTech May 2023 – Jul 2024
@@ -160,9 +160,6 @@ AI chatbots, vector DBs, performance ↑200%
 
 🌟 Frontend Intern – Empyreal Infotech May 2022 – Jul 2022
 React routing & secure input validation
-
-yaml
-Copy code
 
 ---
 
